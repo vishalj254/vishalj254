@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalj254](https://github.com/vishalj254)
 
-- 💬 Ask me about **JavaScript, React, React Native, Node JS, Express JS, Python, AWS,**
+- 💬 Ask me about **JavaScript, React, React Native, Node JS, Express JS, Python, AWS**
 
 - 📫 How to reach me **vishaljain2504@gmail.com**
 
